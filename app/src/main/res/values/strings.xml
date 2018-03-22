@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+    <string name="api_key">57d6354efb4fdc4c36892a240be05399</string>
+    <string name="no_internet_connection">There is no internet connection</string>
+    <string name="no_movies">No movies found&#8230;</string>
+    <string name="switch_title">Sort by</string>
+    <string name="switch_popular">Most Popular</string>
+    <string name="switch_rated">Top Rated</string>
+    <string name="imagePath">https://image.tmdb.org/t/p/w185/</string>
+    <string name="release_date">Release Date:</string>
+    <string name="vote_average">Vote Average:</string>
+    <string name="synopsis">Plot Synopsis:</string>
+
+    <string name="detail_error_message">Movie data are not available</string>
+
+</resources>
